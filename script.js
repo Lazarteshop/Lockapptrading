@@ -21,9 +21,9 @@ function onSubmit() {
      
 // In the code above, the ".value" sets the passcode. 
 // If you change it to a longer number, make sure you change 
-// the "maxlength" on the index.htm page to match. 
+// the "maxlength" on the index.html page to match. 
 
 // You can also change the web page in the "href" to another page. 
-// Simply replace "https://tradezonexxxxa.netlify.app//" with your desired page. 
+// Simply replace "https:https://tradingxxxxa.netlify.app/" with your desired page. 
 
 // You can also change the "alert" text above to what you want to say.
