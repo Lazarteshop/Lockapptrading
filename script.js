@@ -24,6 +24,6 @@ function onSubmit() {
 // the "maxlength" on the index.html page to match. 
 
 // You can also change the web page in the "href" to another page. 
-// Simply replace "https:https://tradingxxxxa.netlify.app/" with your desired page. 
+// Simply replace "https:/" with your desired page. 
 
 // You can also change the "alert" text above to what you want to say.
