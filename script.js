@@ -9,7 +9,7 @@ function onSubmit() {
     /* Option 2 */
     /* Use this line of code to show an "Access Granted" linkable button the user must click after entering the correct code and clicking the "submit" button. */
     /* (the new button that appears must also be clicked to go to the new page.) */ 
-            if (document.getElementById('password').value == 'xxxxa') {window.button2.style.display="block"; }
+            if (document.getElementById('password').value == 'echo1') {window.button2.style.display="block"; }
             else{ 
                 alert('Access Denied, Please try again');
             }
