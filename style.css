@@ -1,0 +1,53 @@
+body {
+  font-family: "Open Sans";
+  background-color: #a9a9a9;
+  color: #000000;
+  line-height: 1.618em;  
+}
+.container {
+	width: 90%;
+	align-items: center;
+	text-align: center;
+}
+.inputField1 {
+	font-size: medium;
+}
+.button1 {	
+	border-radius: 12px;
+	width: 90px;
+	font-size: large;
+	margin: 0 auto;
+	margin-top: 15px;
+}
+.button1:hover {
+	background-color: green;
+	color: #ffffff;
+}
+
+label {
+	font: normal 18px Georgia,serif;
+}
+
+.button2  {
+	display: none;
+	width: 160px;
+	background-color: #ddd;
+	border: none;
+	padding: 10px 20px;
+	text-align: center;		
+	cursor: pointer;
+	border-radius: 16px;
+	margin: 0 auto;
+	text-decoration: none;
+  }
+.button2:hover  {
+	background-color: #cacaca;
+	text-decoration: none;
+	font-style: oblique;
+}
+a {
+	text-decoration: none;
+	color: green;
+}
+
+
