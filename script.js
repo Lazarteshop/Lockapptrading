@@ -4,7 +4,7 @@ function onSubmit() {
 
     /* Option 1 */ 
 	/* Use the following line of code to go directly to another page when the correct code is entered and the "submit" button is clicked. */
-          /*if (document.getElementById('password').value == '2135') {window.location.href = 'http:google.com'; }else{ alert('Access Denied, Please try again');}*/
+          /*if (document.getElementById('password').value == 'echo1') {window.location.href = 'http:google.com'; }else{ alert('Access Denied, Please try again');}*/
     
     /* Option 2 */
     /* Use this line of code to show an "Access Granted" linkable button the user must click after entering the correct code and clicking the "submit" button. */
